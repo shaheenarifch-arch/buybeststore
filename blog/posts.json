@@ -19,5 +19,19 @@
     "description": "An affordable online shopping guide for budget-conscious buyers comparing deal hubs, store pages, and smart tactics to save more on every order.",
     "file": "affordable-online-shopping-guide-for-budget-conscious-buyers.html",
     "date": "2026-10-05"
+  },
+  {
+    "keyword": "where to find affordable deals on everyday essentials online",
+    "title": "Where to Find Affordable Deals on Everyday Essentials Online",
+    "description": "Learn where to find affordable deals on everyday essentials online, from deal aggregator pages to retailer sales, plus mistakes to avoid and checks to make.",
+    "file": "where-to-find-affordable-deals-on-everyday-essentials-online.html",
+    "date": "2026-10-24",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.62,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 7.68
   }
 ]
