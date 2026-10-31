@@ -33,5 +33,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 7.68
+  },
+  {
+    "keyword": "Smart online shopping complete guide: how to compare products and stores",
+    "title": "Smart Online Shopping Complete Guide: Compare Products and Stores",
+    "description": "Smart online shopping complete guide: how to compare products and stores, read deals pages, check store catalogs, and shop with more confidence.",
+    "file": "smart-online-shopping-complete-guide-how-to-compare-products-and-stores.html",
+    "date": "2026-10-31",
+    "archetype": "comparison",
+    "archetype_confidence": 0.87,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.66
   }
 ]
