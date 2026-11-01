@@ -47,5 +47,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 8.66
+  },
+  {
+    "keyword": "best waterproof motorcycle luggage for heavy rain protection",
+    "title": "Best Waterproof Motorcycle Luggage for Heavy Rain Protection",
+    "description": "Find the best waterproof motorcycle luggage for heavy rain protection with this guide to seams, mounting, materials, and common buying mistakes.",
+    "file": "best-waterproof-motorcycle-luggage-for-heavy-rain-protection.html",
+    "date": "2026-11-01",
+    "archetype": "buying_guide",
+    "archetype_confidence": 0.55,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": false,
+    "eeat_score": 100,
+    "seo_aeo_score": 7.91
   }
 ]
